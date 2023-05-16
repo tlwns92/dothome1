@@ -1,65 +1,53 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>ADC STUDY</title>
     <meta name="keywords" content="" />
     <meta name="description" content="" />
+    <base href="/" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>ADC STUDY</title>
     <link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
- 
- 
- 	
-
-    <link rel="stylesheet" href=".\style.css">
-    <script>
-        function selectCategory(category) {
-            window.location.href = category;
-        }
-    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.3.0/dropzone.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.3.0/dropzone.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
+
 <body>
 <?php
     if(isset($_GET['category'])) {
       $category = $_GET['category'];
-      $filename = $category . ".html";
+      $filename = $category . ".php";
 
       if (file_exists($filename)) {
-        include('common/header.html');
+        include('common/header.php');
         include($filename);
-        include('common/sidebar.html');
+        include('common/sidebar.php');
 
       } else {
-        include('common/header.html');
-        include('common/sidebar.html');
-        include('error.html');
+        include('common/header.php');
+        include('common/sidebar.php');
+        include('error.php');
 
       }
     } else {
-      include('common/header.html');
-      include('page/home.html');
-      include('common/sidebar.html');
-
+      include('common/header.php');
+      include('page/home.php');
+      include('common/sidebar.php');
     }
+
 ?>
 <br><br><br><br>
-<?php include('common/footer.html') ?>
+<?php include('common/footer.php') ?>
 
-<script>
-    // get the current page URL and extract the category from it
-    var currentPageURL = window.location.href;
-    var category = currentPageURL.substring(currentPageURL.lastIndexOf('/')+1);
 
-    // find the list item with the matching category and add "current_page_item" class to it
-    var categoriesList = document.getElementById("categories_list");
-    var categories = categoriesList.getElementsByTagName("li");
-    for(var i = 0; i < categories.length; i++) {
-        var categoryLink = categories[i].getElementsByTagName("a")[0];
-        if(categoryLink.href.indexOf(category) !== -1) {
-            categories[i].className += " current_page_item";
-            break;
-        }
-    }
-</script>
+
+
+  <script src="script.js"></script>
 
 </body>
 </html>
