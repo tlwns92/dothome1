@@ -1,9 +1,9 @@
 <?php
-// header("Access-Control-Allow-Origin: http://testadcstudy.dothome.co.kr");
+header("Access-Control-Allow-Origin: http://testadcstudy.dothome.co.kr");
 header("Access-Control-Allow-Methods: POST, GET");
 header("Access-Control-Allow-Headers: Content-Type, Authorization");
 
-$uploadDir = "uploads/";
+$uploadDir = "../upload/";
 
 if (!empty($_FILES)) {
   $tempFile = $_FILES["file"]["tmp_name"];

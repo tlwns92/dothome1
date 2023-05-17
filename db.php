@@ -1,9 +1,9 @@
 <?php
 // 데이터베이스 정보
 $servername = "localhost";
-$username = "mi2rl";
-$password = "mi2rl1234";
-$dbname = "test";
+$username = "testadcstudy";
+$password = "alwjr1emdrmq!";
+$dbname = "testadcstudy";
 
 // 데이터베이스 연결
 $conn = new mysqli($servername, $username, $password, $dbname);

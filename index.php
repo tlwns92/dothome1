@@ -19,6 +19,24 @@
 
 <body>
 <?php
+
+session_start();
+
+if (!isset($_SESSION['adc_id'])) {
+    $randomId = generateRandomId(10);
+    $_SESSION['adc_id'] = $randomId;
+}
+
+// 랜덤한 ID 생성 함수
+function generateRandomId($length) {
+    $characters = '0123456789';
+    $id = '';
+    for ($i = 0; $i < $length; $i++) {
+        $id .= $characters[rand(0, strlen($characters) - 1)];
+    }
+    return $id;
+}
+
     if(isset($_GET['category'])) {
       $category = $_GET['category'];
       $filename = $category . ".php";

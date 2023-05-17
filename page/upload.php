@@ -1,12 +1,10 @@
+
 <div id="wrapper">
     <div id="page">
         <div id="content">
             <div id="actions" class="row">
                 <div class="col-lg-7">
-                <span class="btn btn-success fileinput-button dz-clickable">
-                    <i class="glyphicon glyphicon-plus"></i>
-                    <span>Download</span>
-                </span>
+                
                 <button type="submit" class="btn btn-primary start" onclick="uploadFiles()">
                     <i class="glyphicon glyphicon-upload"></i>
                     <span>Start upload</span>
@@ -18,7 +16,7 @@
                 </div>
             </div>
             <div id="dropzone">
-                <form action="upload_check.php" class="dropzone needsclick" id="demo-upload" 
+                <form action="/controller/upload_check.php" class="dropzone needsclick" id="demo-upload" 
                 acceptedFiles="image/jpeg,image/png,application/dicom">
                 <div class="dz-message needsclick">
                     <span class="text">
