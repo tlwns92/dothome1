@@ -1,0 +1,19 @@
+2023-06-20 06:08:37 File Upload successful(upload_check.php): tmpFile - /tmp/php6SP7ss, filePath - ../upload/1687208915853869/6490c3d52ccfb.dcm
+2023-06-20 06:08:37 File Upload successful(upload_check.php): tmpFile - /tmp/phpNroUmi, filePath - ../upload/1687208915853869/6490c3d52d8a7.dcm
+2023-06-20 06:08:37 File Upload successful(upload_check.php): tmpFile - /tmp/phph6M7i8, filePath - ../upload/1687208915853869/6490c3d52e3f0.dcm
+2023-06-20 06:16:35 Upload failed(dropzone): It's not a Dicom file  filename - 식약처인허가2.txt
+2023-06-20 06:16:46 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 식약처인허가2.txt
+2023-06-20 06:16:46 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 식약처인허가2.txt
+2023-06-20 06:16:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpSpjsNm, filePath - ../upload/1687209405120505/6490c5be9b3e6.dcm
+2023-06-20 06:16:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpDhAT90, filePath - ../upload/1687209405120505/6490c5be9c0af.dcm
+2023-06-20 06:16:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpLkLmJF, filePath - ../upload/1687209405120505/6490c5be9ca41.dcm
+2023-06-20 06:16:54 Upload failed(dropzone): Upload File Count Exceeded  filename - 
+2023-06-20 06:19:20 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 마스크 생성한거.txt
+2023-06-20 06:19:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpjmoJlH, filePath - ../upload/1687209558913322/6490c6583a156.dcm
+2023-06-20 06:19:20 File Upload successful(upload_check.php): tmpFile - /tmp/php3iQjHz, filePath - ../upload/1687209558913322/6490c6583adb0.dcm
+2023-06-20 06:19:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpjHdT4r, filePath - ../upload/1687209558913322/6490c6583b8f4.dcm
+2023-06-20 06:19:26 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 
+2023-06-20 06:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpCe1oCc, filePath - ../upload/1687209565680263/6490c65f6c6b0.dcm
+2023-06-20 06:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpocuYUm, filePath - ../upload/1687209565680263/6490c65f6d483.dcm
+2023-06-20 06:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpHRq2ix, filePath - ../upload/1687209565680263/6490c65f6e002.dcm
+2023-06-20 06:19:37 Upload failed(dropzone): It's not a Dicom file  filename - 식약처인허가2.txt, 마스크 생성한거.txt
