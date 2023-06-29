@@ -23,34 +23,27 @@ Dropzone.options.demoUpload = {
       var validFiles = [];
       var invalidFiles = [];
 
-      // 파일 크기 에러 처리 추가
-      self.on("error", function(file, errorMessage) {
-        // 파일 크기가 초과된 경우
-        if (file.size > self.options.maxFilesize * 1024 * 1024) {
-          var logMessage =
-            "Upload failed(dropzone): file size over filename - " +
-            file.name +
-            " , filesize - " +
-            (file.size / (1024 * 1024)).toFixed(2) +
-            "MB";
-          doWriteLog(logMessage);
-          self.removeAllFiles();
-          alert(
-            "The maximum upload size file is " +
-              self.options.maxFilesize +
-              "MB."
-          );
-        }
-      });
-
       // 파일을 확인하여 유효한 파일과 유효하지 않은 파일로 분류
       fileArray.forEach(function(file) {
         var extension = file.name.split(".").pop().toLowerCase();
         console.log("filename : " + file.name);
         console.log("ext : " + extension);
         if (extension === "dicom" || extension === "dcm") {
-          validFiles.push(file);
-          console.log("valid dicom file : " + file.name);
+          // 파일 크기가 1MB를 초과하지 않는 경우에만 유효한 파일로 분류
+          if (file.size <= self.options.maxFilesize * 1024 * 1024) {
+            validFiles.push(file);
+            console.log("valid dicom file : " + file.name);
+          } else {
+            var logMessage =
+              "Upload failed(dropzone): file size over filename - " +
+              file.name +
+              " , filesize - " +
+              (file.size / (1024 * 1024)).toFixed(2) +
+              "MB";
+            doWriteLog(logMessage);
+            invalidFiles.push(file);
+          }
+
         } else {
           invalidFiles.push(file);
           console.log("invalid dicom file : " + file.name);
@@ -64,7 +57,7 @@ Dropzone.options.demoUpload = {
           invalidFiles.map((file) => file.name).join(", ");
         doWriteLog(logMessage);
         self.removeAllFiles(); // 모든 파일 제거
-        alert("Only dicom or dcm files can be uploaded.");
+        alert("Only" + self.options.maxFilesize +"MB DICOM files can be uploaded.");
         return;
       }
 
@@ -113,7 +106,7 @@ Dropzone.options.demoUpload = {
               if (response.status === "success") {
                 console.log("File information saved to the database.");
                 response.uploadedFiles.forEach(function(uploadedFile) {
-                  displayDICOM(uploadedFile.filePath, uploadedFile.uploadNum);
+                displayDICOM(uploadedFile.filePath, uploadedFile.uploadNum);
                 });
               } else {
                 console.error(
@@ -125,7 +118,6 @@ Dropzone.options.demoUpload = {
             }
           } else {
             console.log("Error uploading files");
-            alert("업로드 실패!");
           }
         }
       };
@@ -138,7 +130,7 @@ Dropzone.options.demoUpload = {
           return file.name;
         });
         var alertMessage =
-          "Only dicom files can be uploaded.\nExcluded files: " +
+          "Only" + self.options.maxFilesize +"MB DICOM files can be uploaded.\nExcluded files: " +
           invalidFileNames.join(", ");
         alert(alertMessage);
       }
@@ -181,21 +173,27 @@ function displayDICOM(filePath, uploadNum) {
   var originalButton = document.createElement("button");
   originalButton.className = "category-button";
   originalButton.setAttribute("data-category", "original");
-  originalButton.textContent = "Original";
+  originalButton.textContent = "DICOM Image";
+  originalButton.id = "dicom-" + uploadNum;
 
   var analysisButton = document.createElement("button");
   analysisButton.className = "category-button";
   analysisButton.setAttribute("data-category", "analysis");
-  analysisButton.textContent = "Analysis";
+  analysisButton.textContent = "Analyzed Image";
+  analysisButton.id = "analyzed-" + uploadNum;
 
   var resultButton = document.createElement("button");
   resultButton.className = "category-button";
   resultButton.setAttribute("data-category", "result");
-  resultButton.textContent = "Result";
+  resultButton.textContent = "Result Value";
+  resultButton.id = "result-" + uploadNum;
 
   categoryButtonsElement.appendChild(originalButton);
   categoryButtonsElement.appendChild(analysisButton);
   categoryButtonsElement.appendChild(resultButton);
+
+  var viewContainer = document.createElement("div");
+  viewContainer.id = "view-container-" + uploadNum;
 
   var dicomViewport = document.createElement("div");
   dicomViewport.className = "dicomViewerport";
@@ -207,15 +205,15 @@ function displayDICOM(filePath, uploadNum) {
   imageContainer.className = "image-container";
   imageContainer.id = "image-container-" + uploadNum;
 
-  recordElement.appendChild(categoryButtonsElement);
-  recordElement.appendChild(dicomViewport);
-  recordElement.appendChild(imageContainer);
+  viewContainer.appendChild(dicomViewport);
+  viewContainer.appendChild(imageContainer);
 
+  recordElement.appendChild(categoryButtonsElement);
+  recordElement.appendChild(viewContainer);
   recordsElement.appendChild(recordElement);
 
   loadDICOM(filePath, dicomViewport.id);
 }
-
 
 function doWriteLog(logMessage) {
   var xhr = new XMLHttpRequest();

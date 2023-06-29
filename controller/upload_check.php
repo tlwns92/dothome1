@@ -25,10 +25,16 @@ if (!empty($_FILES) && isset($_POST['uploadPath'])) {
         $targetFile = $uploadPath . $randomFileName;
 
         if (!is_dir($uploadPath) && !empty($tmpFile)) {
-           mkdir($uploadPath, 0777, true);
+            mkdir($uploadPath, 0777, true);
         }
 
         if (move_uploaded_file($tmpFile, $targetFile)) {
+            $folderPath = str_replace('.dcm', '', $targetFile); 
+
+            if (!is_dir($folderPath)) {
+                mkdir($folderPath, 0777, true);
+            }
+
             $sql = "INSERT INTO upload (session_id, upload_file, upload_ran_file, upload_path, upload_time) VALUES ('$sessionId', '$fileName', '$randomFileName', '$uploadPath', NOW())";
             $result = $conn->query($sql);
 
@@ -47,7 +53,8 @@ if (!empty($_FILES) && isset($_POST['uploadPath'])) {
         } else {
             $response['status'] = 'error';
             $response['message'] = 'File Upload failed';
-            doWriteLog("File Upload failed(upload_check.php): tmpFile - $tmpFile, targetFile - $targetFile ");
+            $errorMessage = "File Upload failed(upload_check.php): tmpFile - $tmpFile, targetFile - $targetFile, error - " . $_FILES['files']['error'][$key];
+            doWriteLog($errorMessage);
         }
     }
     $conn->close();

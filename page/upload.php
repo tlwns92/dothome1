@@ -23,7 +23,6 @@ $result = mq($sql);
 ?>
 
 <script src="https://unpkg.com/cornerstone-core/dist/cornerstone.js"></script>
-<script src="https://unpkg.com/cornerstone-tools/dist/cornerstoneTools.js"></script>
 <script src="https://unpkg.com/dicom-parser/dist/dicomParser.min.js"></script>
 <script src="https://unpkg.com/cornerstone-wado-image-loader/dist/cornerstoneWADOImageLoader.bundle.min.js"></script>
 
@@ -54,12 +53,14 @@ $result = mq($sql);
 
                         echo '<div class="record">';
                         echo '<div class="category-buttons">';
-            		echo '<button class="category-button" data-category="original">Original</button>';
-            		echo '<button class="category-button" data-category="analysis">Analysis</button>';
-            		echo '<button class="category-button" data-category="result">Result</button>';
+            		echo '<button class="category-button" id="dicom-'.$uploadNum.'"  data-category="original">DICOM Image</button>';
+            		echo '<button class="category-button" id="analyzed-'.$uploadNum.'" data-category="analysis">Analyzed Image</button>';
+            		echo '<button class="category-button" id="result-'.$uploadNum.'"  data-category="result">Result Value</button>';
             		echo '</div>';
+                        echo '<div id="view-container-'. $uploadNum . '">';
                         echo '<div class="dicomViewerport" id="dicomViewerport-' . $uploadNum . '" style="height: 300px; width: 300px;"></div>';
                         echo '<div class="image-container" id="image-container-' . $uploadNum . '"></div>';
+                        echo '</div>';
                         echo '</div>';
                     }
                 } else {
@@ -85,36 +86,6 @@ window.addEventListener('load', function() {
     }
     ?>
 });
-
-
-
-
-
-function handleUploadResponse(response) {
-    const { status, message } = response;
-    console.log(message);
-
-    if (status === 'success') {
-        const { files } = response;
-        files.forEach(file => {
-            const { fileName, filePath } = file;
-            const uploadNum = getUploadNumFromFilePath(filePath);
-            const elementId = `dicomViewerport-${uploadNum}`;
-
-            // 이미지를 로드하고 뷰어를 추가
-            loadDICOM(filePath, elementId);
-        });
-    }
-}
-
-// 파일 경로에서 업로드 번호를 추출
-function getUploadNumFromFilePath(filePath) {
-    const match = filePath.match(/dicomViewerport-(\d+)/);
-    if (match) {
-        return parseInt(match[1]);
-    }
-    return -1; // 유효하지 않은 파일 경로인 경우
-}
 
 
 </script>
