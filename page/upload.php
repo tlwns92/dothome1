@@ -17,13 +17,11 @@ function mq($sql){
     global $conn;
     return $conn->query($sql);
 }
-
-$sql = "SELECT * FROM upload WHERE session_id = '$sessionId' ORDER BY upload_num ASC";
+$sql = "SELECT * FROM upload WHERE session_id = '$sessionId' ORDER BY upload_num DESC";
 $result = mq($sql);
 ?>
 
 <script src="https://unpkg.com/cornerstone-core/dist/cornerstone.js"></script>
-<script src="https://unpkg.com/cornerstone-tools/dist/cornerstoneTools.js"></script>
 <script src="https://unpkg.com/dicom-parser/dist/dicomParser.min.js"></script>
 <script src="https://unpkg.com/cornerstone-wado-image-loader/dist/cornerstoneWADOImageLoader.bundle.min.js"></script>
 
@@ -52,15 +50,23 @@ $result = mq($sql);
                         $uploadTime = $row['upload_time'];
                         $filePath = $uploadPath . $uploadRanFile;
 
-                        echo '<div class="record">';
-                        echo '<div class="category-buttons">';
-            		echo '<button class="category-button" data-category="original">Original</button>';
-            		echo '<button class="category-button" data-category="analysis">Analysis</button>';
-            		echo '<button class="category-button" data-category="result">Result</button>';
-            		echo '</div>';
-                        echo '<div class="dicomViewerport" id="dicomViewerport-' . $uploadNum . '" style="height: 300px; width: 300px;"></div>';
-                        echo '<div class="image-container" id="image-container-' . $uploadNum . '"></div>';
+
+
+                        echo '<div class="record" id="record-'.$uploadNum.'">';
+                        echo '<div class="category-buttons" id="category-buttons-'.$uploadNum.'">';
+                        echo '<button class="category-button active" id="dicom-'.$uploadNum.'"  data-category="original" onclick="changeCategory('.$uploadNum.', \'original\', \''.$filePath.'\')">DICOM Image</button>';
+                        echo '<button class="category-button" id="analyzed-'.$uploadNum.'" data-category="analysis" onclick="changeCategory('.$uploadNum.', \'analysis\', \''.$filePath.'\')">Analyzed Image</button>';
+                        echo '<button class="category-button" id="result-'.$uploadNum.'"  data-category="result" onclick="changeCategory('.$uploadNum.', \'result\', \''.$filePath.'\')">Result Value</button>';
                         echo '</div>';
+                        echo '<div id="viewercontainer-' . $uploadNum . '" style="display: flex; justify-content: center; align-items: center;">';
+                        echo '<div class="dicomViewerport" id="dicomViewerport-' . $uploadNum . '" style="height: 300px; width: 300px; margin-right:50px;"></div>';
+                        echo '<div class="download-container" style="  text-align: center;">';
+                        echo '<br><br><h4>Download analyzed data as a zip file.</h4><br><button class="download-button">Download</button>';
+                        echo '</div>';
+                        echo '</div>';
+                        echo '</div>';
+
+
                     }
                 } else {
                     echo "Failed to save file information to the database.";
@@ -68,7 +74,6 @@ $result = mq($sql);
                 ?>
             </div>
         </div>
-
 <script>
 
 window.addEventListener('load', function() {
@@ -86,35 +91,37 @@ window.addEventListener('load', function() {
     ?>
 });
 
+var recordsElement = document.getElementById("records");
 
+// 버튼 클릭 이벤트 핸들러
+function handleDownload(event) {
+  var button = event.target;
+  var recordElement = button.closest(".record");
+  var uploadNum = recordElement.id.split("-")[1];
 
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "/controller/zip_download.php?filename=1000001.zip", true);
+  xhr.responseType = "blob";
 
-
-function handleUploadResponse(response) {
-    const { status, message } = response;
-    console.log(message);
-
-    if (status === 'success') {
-        const { files } = response;
-        files.forEach(file => {
-            const { fileName, filePath } = file;
-            const uploadNum = getUploadNumFromFilePath(filePath);
-            const elementId = `dicomViewerport-${uploadNum}`;
-
-            // 이미지를 로드하고 뷰어를 추가
-            loadDICOM(filePath, elementId);
-        });
+  xhr.onload = function() {
+    if (xhr.status === 200) {
+      var blob = new Blob([xhr.response], { type: "application/zip" });
+      var downloadLink = document.createElement("a");
+      downloadLink.href = window.URL.createObjectURL(blob);
+      downloadLink.download = "1000001.zip";
+      downloadLink.click();
+      window.URL.revokeObjectURL(downloadLink.href); // 메모리 해제
     }
+  };
+
+  xhr.send();
 }
 
-// 파일 경로에서 업로드 번호를 추출
-function getUploadNumFromFilePath(filePath) {
-    const match = filePath.match(/dicomViewerport-(\d+)/);
-    if (match) {
-        return parseInt(match[1]);
-    }
-    return -1; // 유효하지 않은 파일 경로인 경우
-}
-
-
+// 이벤트 위임을 통해 버튼 클릭 이벤트 처리
+recordsElement.addEventListener("click", function(event) {
+  var target = event.target;
+  if (target.classList.contains("download-button")) {
+    handleDownload(event);
+  }
+});
 </script>

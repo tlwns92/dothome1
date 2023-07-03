@@ -47,7 +47,8 @@ if (!empty($_FILES) && isset($_POST['uploadPath'])) {
         } else {
             $response['status'] = 'error';
             $response['message'] = 'File Upload failed';
-            doWriteLog("File Upload failed(upload_check.php): tmpFile - $tmpFile, targetFile - $targetFile ");
+            $errorMessage = "File Upload failed(upload_check.php): tmpFile - $tmpFile, targetFile - $targetFile, error - " . $_FILES['files']['error'][$key];
+            doWriteLog($errorMessage);
         }
     }
     $conn->close();

@@ -46,7 +46,7 @@ if (isset($_SESSION['email'])) {
       <li class="<?php echo (isset($_GET['category']) && ($_GET['category'] === 'page/study')) ? 'current_page_item' : ''; ?>"><a href="index.php?category=page/study">Study Protocols</a></li>
       <li class="<?php echo (isset($_GET['category']) && ($_GET['category'] === 'page/public')) ? 'current_page_item' : ''; ?>"><a href="index.php?category=page/public">Publications</a></li>
       <li class="<?php echo (isset($_GET['category']) && ($_GET['category'] === 'page/present')) ? 'current_page_item' : ''; ?>"><a href="index.php?category=page/present">Presentations</a></li>
-      
+
     </ul>
   </div><!-- end #menu -->
   </div><!-- end #wrapper -->
