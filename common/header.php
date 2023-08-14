@@ -1,21 +1,3 @@
-<?php
-
-session_set_cookie_params(0);
-session_start();
-
-$email = '';
-
-if (isset($_SESSION['email'])) {
-    $email = $_SESSION['email'];
-    $user_id = $_SESSION['user_id'];
-    $login_time = $_SESSION['login_time'];
-    $session_timeout = $_SESSION['session_timeout'];
-    $islogin = TRUE;
-    // echo "Welcome, " . $_SESSION['email'];
-}else{
-  $islogin = FALSE;
-}
-?>
 
 <script>
   function selectCategory(link) {
