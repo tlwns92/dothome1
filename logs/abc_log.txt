@@ -1,0 +1,528 @@
+2023-06-20 06:08:37 File Upload successful(upload_check.php): tmpFile - /tmp/php6SP7ss, filePath - ../upload/1687208915853869/6490c3d52ccfb.dcm
+2023-06-20 06:08:37 File Upload successful(upload_check.php): tmpFile - /tmp/phpNroUmi, filePath - ../upload/1687208915853869/6490c3d52d8a7.dcm
+2023-06-20 06:08:37 File Upload successful(upload_check.php): tmpFile - /tmp/phph6M7i8, filePath - ../upload/1687208915853869/6490c3d52e3f0.dcm
+2023-06-20 06:16:35 Upload failed(dropzone): It's not a Dicom file  filename - 식약처인허가2.txt
+2023-06-20 06:16:46 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 식약처인허가2.txt
+2023-06-20 06:16:46 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 식약처인허가2.txt
+2023-06-20 06:16:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpSpjsNm, filePath - ../upload/1687209405120505/6490c5be9b3e6.dcm
+2023-06-20 06:16:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpDhAT90, filePath - ../upload/1687209405120505/6490c5be9c0af.dcm
+2023-06-20 06:16:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpLkLmJF, filePath - ../upload/1687209405120505/6490c5be9ca41.dcm
+2023-06-20 06:16:54 Upload failed(dropzone): Upload File Count Exceeded  filename - 
+2023-06-20 06:19:20 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 마스크 생성한거.txt
+2023-06-20 06:19:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpjmoJlH, filePath - ../upload/1687209558913322/6490c6583a156.dcm
+2023-06-20 06:19:20 File Upload successful(upload_check.php): tmpFile - /tmp/php3iQjHz, filePath - ../upload/1687209558913322/6490c6583adb0.dcm
+2023-06-20 06:19:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpjHdT4r, filePath - ../upload/1687209558913322/6490c6583b8f4.dcm
+2023-06-20 06:19:26 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_212365.1.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 
+2023-06-20 06:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpCe1oCc, filePath - ../upload/1687209565680263/6490c65f6c6b0.dcm
+2023-06-20 06:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpocuYUm, filePath - ../upload/1687209565680263/6490c65f6d483.dcm
+2023-06-20 06:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpHRq2ix, filePath - ../upload/1687209565680263/6490c65f6e002.dcm
+2023-06-20 06:19:37 Upload failed(dropzone): It's not a Dicom file  filename - 식약처인허가2.txt, 마스크 생성한거.txt
+2023-06-29 15:47:08 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-06-29 15:47:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpd6gKb9, filePath - ../upload/1688021226469580/649d28ec3b152.dcm
+2023-06-29 15:47:15 script to upload_check.php: success - up.dcm, fail - 
+2023-06-29 15:47:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpu236MT, filePath - ../upload/1688021234142953/649d28f430d62.dcm
+2023-06-29 16:04:53 script to upload_check.php: success - up.dcm, IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-06-29 16:04:53 File Upload successful(upload_check.php): tmpFile - /tmp/phpHPx4ne, filePath - ../upload/1688022291680225/649d2d1574d21.dcm
+2023-06-29 16:04:53 File Upload successful(upload_check.php): tmpFile - /tmp/phpEljk9N, filePath - ../upload/1688022291680225/649d2d1575b95.dcm
+2023-06-29 16:54:36 script to upload_check.php: success - 1000001.dcm, 1000002.dcm, fail - 
+2023-06-29 16:54:51 File Upload successful(upload_check.php): tmpFile - /tmp/phppNjzql, filePath - ../upload/1688025276046879/649d38cb6d75e.dcm
+2023-06-29 16:54:51 File Upload successful(upload_check.php): tmpFile - /tmp/phpnfLBG5, filePath - ../upload/1688025276046879/649d38cb7063e.dcm
+2023-06-29 17:26:08 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 
+2023-06-29 17:26:08 File Upload successful(upload_check.php): tmpFile - /tmp/php8CZxpg, filePath - ../upload/1688027166521765/649d4020784c4.dcm
+2023-06-29 17:26:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpGX1OUe, filePath - ../upload/1688027166521765/649d40207943a.dcm
+2023-06-29 17:33:35 script to upload_check.php: success - up.dcm, IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-06-29 17:33:35 File Upload successful(upload_check.php): tmpFile - /tmp/phpfgO5xr, filePath - ../upload/1688027613406623/649d41df39490.dcm
+2023-06-29 17:33:35 File Upload successful(upload_check.php): tmpFile - /tmp/phpNuvgQv, filePath - ../upload/1688027613406623/649d41df3a38c.dcm
+2023-06-29 17:34:56 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, IRB20210303_1_706963.1.1.dcm, fail - 
+2023-06-29 17:34:56 File Upload successful(upload_check.php): tmpFile - /tmp/phpD6ALdA, filePath - ../upload/1688027694892887/649d4230af1f2.dcm
+2023-06-29 17:34:56 File Upload successful(upload_check.php): tmpFile - /tmp/phpMVLp5W, filePath - ../upload/1688027694892887/649d4230b039f.dcm
+2023-06-29 17:47:45 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dcm, fail - 
+2023-06-29 17:47:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpUHTBOz, filePath - ../upload/1688028464087739/649d4531e2cbc.dcm
+2023-07-03 10:04:35 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 10:04:37 File Upload successful(upload_check.php): tmpFile - /tmp/phpV5Y4Bp, filePath - ../upload/1688346274358999/64a21ea49b95a.dcm
+2023-07-03 10:08:33 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 10:08:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpUJoY0J, filePath - ../upload/1688346511860845/64a21f917ffc6.dcm
+2023-07-03 10:26:59 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 10:26:59 File Upload successful(upload_check.php): tmpFile - /tmp/phpA2gZO5, filePath - ../upload/1688347617533544/64a223e33e816.dcm
+2023-07-03 10:41:38 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 10:41:39 File Upload successful(upload_check.php): tmpFile - /tmp/phpqrqQsI, filePath - ../upload/1688348497272343/64a22753a7635.dcm
+2023-07-03 10:48:56 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 10:48:57 File Upload successful(upload_check.php): tmpFile - /tmp/phpHxEjnW, filePath - ../upload/1688348935347386/64a2290902825.dcm
+2023-07-03 10:50:08 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 10:50:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpy4PAFm, filePath - ../upload/1688349007197314/64a22950efb42.dcm
+2023-07-03 13:44:17 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 13:44:18 File Upload successful(upload_check.php): tmpFile - /tmp/php7ZsSXb, filePath - ../upload/1688359456339239/64a252222b1e5.dcm
+2023-07-03 13:44:28 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 13:44:28 File Upload successful(upload_check.php): tmpFile - /tmp/php7B1jAV, filePath - ../upload/1688359467094773/64a2522ce620a.dcm
+2023-07-03 14:19:15 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 14:19:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpQefqnz, filePath - ../upload/1688361554310516/64a25a5420373.dcm
+2023-07-03 15:20:18 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:20:19 File Upload successful(upload_check.php): tmpFile - /tmp/phpOHaRWJ, filePath - ../upload/1688365216775218/64a268a3091c5.dcm
+2023-07-03 15:20:30 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:20:30 File Upload successful(upload_check.php): tmpFile - /tmp/phpedPqch, filePath - ../upload/1688365228964944/64a268aed43f9.dcm
+2023-07-03 15:23:44 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:23:44 File Upload successful(upload_check.php): tmpFile - /tmp/phpC9I5LI, filePath - ../upload/168836542266265/64a26970913d1.dcm
+2023-07-03 15:24:10 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:24:11 File Upload successful(upload_check.php): tmpFile - /tmp/phpf7eRTF, filePath - ../upload/1688365448563948/64a2698b242b2.dcm
+2023-07-03 15:24:38 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:24:39 File Upload successful(upload_check.php): tmpFile - /tmp/phpk2Ubr8, filePath - ../upload/1688365477236836/64a269a76ffdc.dcm
+2023-07-03 15:25:07 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-07-03 15:25:07 File Upload successful(upload_check.php): tmpFile - /tmp/php0Nr5eB, filePath - ../upload/1688365506037897/64a269c3c16a8.dcm
+2023-07-03 15:25:16 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:25:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpr6LOFu, filePath - ../upload/1688365514520692/64a269cc68415.dcm
+2023-07-03 15:25:25 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:25:25 File Upload successful(upload_check.php): tmpFile - /tmp/phpA7db1I, filePath - ../upload/1688365523503228/64a269d55abcc.dcm
+2023-07-03 15:26:03 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:26:03 File Upload successful(upload_check.php): tmpFile - /tmp/phpsSK4uY, filePath - ../upload/1688365561823194/64a269fbae0da.dcm
+2023-07-03 15:26:07 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:26:07 File Upload successful(upload_check.php): tmpFile - /tmp/php6THZWC, filePath - ../upload/1688365566067391/64a269ffe7578.dcm
+2023-07-03 15:26:37 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:26:38 File Upload successful(upload_check.php): tmpFile - /tmp/phpQgzCPJ, filePath - ../upload/1688365595411881/64a26a1d8e4c8.dcm
+2023-07-03 15:27:09 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:27:10 File Upload successful(upload_check.php): tmpFile - /tmp/phpEeityS, filePath - ../upload/1688365627924180/64a26a3dd4892.dcm
+2023-07-03 15:27:24 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:27:24 File Upload successful(upload_check.php): tmpFile - /tmp/phpvHRSeZ, filePath - ../upload/168836564269354/64a26a4c8ee16.dcm
+2023-07-03 15:28:00 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:28:00 File Upload successful(upload_check.php): tmpFile - /tmp/phpzzHsMt, filePath - ../upload/1688365678429345/64a26a7053698.dcm
+2023-07-03 15:28:05 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:28:05 File Upload successful(upload_check.php): tmpFile - /tmp/phpYMClsc, filePath - ../upload/1688365683943437/64a26a75bfb7e.dcm
+2023-07-03 15:28:39 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:28:39 File Upload successful(upload_check.php): tmpFile - /tmp/php4a8ocT, filePath - ../upload/1688365717479845/64a26a97e3918.dcm
+2023-07-03 15:32:41 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:32:57 File Upload failed(upload_check.php): tmpFile - , targetFile - ../upload/1688365960088949/64a26b9909806.dcm, error - 3
+2023-07-03 15:33:03 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 15:33:03 File Upload successful(upload_check.php): tmpFile - /tmp/phprupSfo, filePath - ../upload/1688365981745694/64a26b9f9faad.dcm
+2023-07-03 15:34:37 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-03 15:34:37 File Upload successful(upload_check.php): tmpFile - /tmp/phpkSEmVa, filePath - ../upload/1688366075613870/64a26bfd5643c.dcm
+2023-07-03 15:34:49 script to upload_check.php: success - up.dcm, fail - 
+2023-07-03 15:34:50 File Upload successful(upload_check.php): tmpFile - /tmp/phpaDr6VJ, filePath - ../upload/1688366088290587/64a26c0a08d36.dcm
+2023-07-03 16:12:31 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-07-03 16:12:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpw1NCUM, filePath - ../upload/1688368349841692/64a274dfa56cc.dcm
+2023-07-03 16:12:41 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-07-03 16:12:41 File Upload successful(upload_check.php): tmpFile - /tmp/phpQ7EMew, filePath - ../upload/1688368359785477/64a274e982b3e.dcm
+2023-07-03 16:22:45 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:22:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpu0h4Hz, filePath - ../upload/168836896385154/64a27745be0a3.dcm
+2023-07-03 16:24:15 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:24:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpPfax6h, filePath - ../upload/1688369054268927/64a277a0366bf.dcm
+2023-07-03 16:26:17 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:26:18 File Upload successful(upload_check.php): tmpFile - /tmp/phpFIoZC2, filePath - ../upload/1688369176283194/64a2781a36bc6.dcm
+2023-07-03 16:26:27 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:26:28 File Upload successful(upload_check.php): tmpFile - /tmp/phpZ1bjpO, filePath - ../upload/1688369186049668/64a278244714b.dcm
+2023-07-03 16:28:37 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:28:38 File Upload successful(upload_check.php): tmpFile - /tmp/phpmmoETk, filePath - ../upload/1688369316208622/64a278a6917bb.dcm
+2023-07-03 16:32:05 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:32:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpplVZSI, filePath - ../upload/1688369523729794/64a2797605f91.dcm
+2023-07-03 16:34:53 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:34:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpO7vKHQ, filePath - ../upload/168836969182941/64a27a1e17d79.dcm
+2023-07-03 16:35:04 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-07-03 16:35:04 File Upload successful(upload_check.php): tmpFile - /tmp/phpjw0jxl, filePath - ../upload/1688369703029593/64a27a28d1f47.dcm
+2023-07-03 16:54:58 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:54:59 File Upload successful(upload_check.php): tmpFile - /tmp/phpLmay38, filePath - ../upload/168837089710198/64a27ed3095b8.dcm
+2023-07-03 16:55:35 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 16:55:35 File Upload successful(upload_check.php): tmpFile - /tmp/phpxtvlaw, filePath - ../upload/1688370933547745/64a27ef789fa6.dcm
+2023-07-03 16:55:52 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-07-03 16:55:53 File Upload successful(upload_check.php): tmpFile - /tmp/php9DdhXy, filePath - ../upload/1688370951208154/64a27f090a7bc.dcm
+2023-07-03 17:02:31 script to upload_check.php: success - up.dcm, fail - 
+2023-07-03 17:02:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpWvp2X4, filePath - ../upload/1688371349877461/64a28097a9a5c.dcm
+2023-07-03 17:02:47 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-03 17:02:47 File Upload successful(upload_check.php): tmpFile - /tmp/phpJcbneP, filePath - ../upload/1688371365482462/64a280a7dec31.dcm
+2023-07-03 17:03:19 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dcm, fail - 
+2023-07-03 17:03:19 File Upload successful(upload_check.php): tmpFile - /tmp/php8grGad, filePath - ../upload/1688371397980236/64a280c7bfa62.dcm
+2023-07-04 13:26:29 Upload failed(dropzone): It's not a Dicom file  filename - 65694055-아카이브-zip-파일-아이콘.webp
+2023-07-04 13:26:46 script to upload_check.php: success - up.dcm, IRB20210303_1_217173.8172.1.dcm, fail - 식약처인허가2.txt, output.txt, 웨이센.png, dicom_img.png, 23년_1~5월업무_김시준.pptx, 화질높여보자.png, qmenta.png
+2023-07-04 13:26:46 File Upload successful(upload_check.php): tmpFile - /tmp/php5r04IA, filePath - ../upload/1688444805455608/64a39f861d1c9.dcm
+2023-07-04 13:26:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpXwFNrO, filePath - ../upload/1688444805455608/64a39f8642c33.dcm
+2023-07-04 13:57:36 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-04 13:57:37 File Upload successful(upload_check.php): tmpFile - /tmp/phpTiblWh, filePath - ../upload/1688446656221202/64a3a6c1112d0.dcm
+2023-07-04 14:12:27 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dcm, fail - 
+2023-07-04 14:12:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpvOkvTZ, filePath - ../upload/1688447546714159/64a3aa3b5fccf.dcm
+2023-07-04 14:19:27 script to upload_check.php: success - test.dcm, fail - 
+2023-07-04 14:19:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpmR8bzB, filePath - ../upload/1688447966834244/64a3abdf940b5.dcm
+2023-07-04 15:26:47 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dcm, fail - 
+2023-07-04 15:26:47 File Upload successful(upload_check.php): tmpFile - /tmp/php749cvr, filePath - ../upload/1688452007132954/64a3bba7d3af5.dcm
+2023-07-04 15:28:24 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-04 15:28:24 File Upload successful(upload_check.php): tmpFile - /tmp/phpf5miEk, filePath - ../upload/1688452103476458/64a3bc0835373.dcm
+2023-07-04 15:28:30 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-04 15:28:30 File Upload successful(upload_check.php): tmpFile - /tmp/phpDIwLjk, filePath - ../upload/1688452109801724/64a3bc0e79abc.dcm
+2023-07-04 15:28:54 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-04 15:28:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpTYmFfv, filePath - ../upload/1688452133846637/64a3bc2692e02.dcm
+2023-07-04 15:29:05 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-04 15:29:05 File Upload successful(upload_check.php): tmpFile - /tmp/phpL8bcsc, filePath - ../upload/1688452145102897/64a3bc31cfd09.dcm
+2023-07-04 17:10:45 Upload failed(dropzone): It's not a Dicom file  filename - 4.gif
+2023-07-04 17:11:08 script to upload_check.php: success - IN_00003_0000008974.dcm, fail - 
+2023-07-04 17:11:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpDwXoPk, filePath - ../upload/1688458267235948/64a3d41c61b88.dcm
+2023-07-05 11:39:21 script to upload_check.php: success - 1000001.dcm, 1000002.dcm, fail - white_logo.png, dicom_img.png, qmenta.png, upload_db설정.png
+2023-07-05 11:39:25 File Upload successful(upload_check.php): tmpFile - /tmp/phpyT71fR, filePath - ../upload/1688524760902384/64a4d7dddae83.dcm
+2023-07-05 11:39:25 File Upload successful(upload_check.php): tmpFile - /tmp/phpmur0eO, filePath - ../upload/1688524760902384/64a4d7dde1b1a.dcm
+2023-07-05 11:53:06 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-05 11:53:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpmaM2vd, filePath - ../upload/168852558517290/64a4db12a7916.dcm
+2023-07-05 11:59:56 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-05 11:59:56 File Upload successful(upload_check.php): tmpFile - /tmp/phpNWeBa2, filePath - ../upload/1688525994648305/64a4dcac2537a.dcm
+2023-07-05 11:59:56 File Upload successful(upload_check.php): tmpFile - /tmp/phpF9JSVQ, filePath - ../upload/1688525994648305/64a4dcac286f0.dcm
+2023-07-05 14:18:52 script to upload_check.php: success - IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-05 14:18:52 File Upload successful(upload_check.php): tmpFile - /tmp/phpv1wgzo, filePath - ../upload/1688534331234874/64a4fd3cc645d.dcm
+2023-07-05 15:59:38 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-05 15:59:40 File Upload successful(upload_check.php): tmpFile - /tmp/php7FdjW0, filePath - ../upload/1688540379385409/64a514dcb63e4.dcm
+2023-07-05 16:00:06 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-05 16:00:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpkvej4k, filePath - ../upload/1688540407359902/64a514f877306.dcm
+2023-07-05 16:01:09 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-05 16:01:11 File Upload successful(upload_check.php): tmpFile - /tmp/php1ioljg, filePath - ../upload/1688540469825817/64a515370669a.dcm
+2023-07-06 10:20:57 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-06 10:20:57 File Upload successful(upload_check.php): tmpFile - /tmp/php2oslJf, filePath - ../upload/1688606456830773/64a616f963284.dcm
+2023-07-06 10:35:31 script to upload_check.php: success - dd.dcm, fail - 
+2023-07-06 10:35:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpcA3UBD, filePath - ../upload/168860733068625/64a61a6344c76.dcm
+2023-07-06 11:10:45 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 11:10:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpyCjuwy, filePath - ../upload/1688609445338207/64a622a5e9e61.dcm
+2023-07-06 11:29:41 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-06 11:29:41 File Upload successful(upload_check.php): tmpFile - /tmp/phpFpwAxg, filePath - ../upload/1688610581319606/64a62715e37d6.dcm
+2023-07-06 12:00:08 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-07-06 12:00:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpLy8l18, filePath - ../upload/1688612408157268/64a62e38ea5a1.dcm
+2023-07-06 12:29:59 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 12:30:18 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 12:55:17 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 12:56:51 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 12:59:05 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 12:59:13 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 12:59:44 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 12:59:44 File Upload successful(upload_check.php): tmpFile - /tmp/phpXCLKvV, filePath - ../upload/1688615983643220/64a63c304c5cd.dcm,  pngPath - ../upload/1688615983643220/64a63c304c5cd.png
+2023-07-06 13:00:31 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dcm, fail - 
+2023-07-06 13:00:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpCvmv1B, filePath - ../upload/1688616030711655/64a63c5f610c9.dcm,  pngPath - ../upload/1688616030711655/64a63c5f610c9.png
+2023-07-06 13:03:58 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 13:03:58 File Upload successful(upload_check.php): tmpFile - /tmp/phppHhx3U, filePath - ../upload/1688616238133738/64a63d2ed46dc.dcm,  pngPath - /var/www/html/upload/1688616238133738/64a63d2ed46dc.png
+2023-07-06 13:06:55 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 13:06:55 File Upload successful(upload_check.php): tmpFile - /tmp/phpV1QCrY, filePath - ../upload/1688616414489879/64a63ddf85a00.dcm,  pngPath - ../var/www/html/upload/1688616414489879/64a63ddf85a00.png
+2023-07-06 13:08:54 script to upload_check.php: success - IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-06 13:08:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpjNOlLi, filePath - ../upload/1688616533833474/64a63e5681e05.dcm,  pngPath - /var/www/html/upload/1688616533833474/64a63e5681e05.png
+2023-07-06 13:14:22 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 13:14:22 File Upload successful(upload_check.php): tmpFile - /tmp/phpZKuqaG, filePath - ../upload/1688616862097342/64a63f9ebd15e.dcm,  pngPath - /var/www/html/upload/1688616862097342/64a63f9ebd15e.png
+2023-07-06 13:21:56 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-06 13:21:56 File Upload successful(upload_check.php): tmpFile - /tmp/php7QwW1x, filePath - ../upload/1688617316085911/64a64164c1a5c.dcm,  pngPath - /var/www/html/upload/1688617316085911/64a64164c1a5c.png
+2023-07-06 13:22:41 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-06 13:22:41 File Upload successful(upload_check.php): tmpFile - /tmp/phpeYzAem, filePath - ../upload/1688617360597495/64a6419147a29.dcm,  pngPath - /var/www/html/upload/1688617360597495/64a6419147a29.png
+2023-07-06 13:22:51 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 13:22:51 File Upload successful(upload_check.php): tmpFile - /tmp/phpsS6qOG, filePath - ../upload/1688617370677877/64a6419bb53dd.dcm,  pngPath - /var/www/html/upload/1688617370677877/64a6419bb53dd.png
+2023-07-06 13:33:36 Upload failed(dropzone): It's not a Dicom file  filename - IRB20210303_1_1080916.1.1
+2023-07-06 13:33:49 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-06 13:33:49 File Upload successful(upload_check.php): tmpFile - /tmp/phpIlZ1fl, filePath - ../upload/1688618028481879/64a6442d2c081.dcm,  pngPath - /var/www/html/upload/1688618028481879/64a6442d2c081.png
+2023-07-06 13:34:50 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-06 13:34:50 File Upload successful(upload_check.php): tmpFile - /tmp/phpdet62F, filePath - ../upload/1688618089446297/64a6446a2796e.dcm,  pngPath - /var/www/html/upload/1688618089446297/64a6446a2796e.png
+2023-07-06 13:39:28 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-06 13:39:28 File Upload successful(upload_check.php): tmpFile - /tmp/php2BbBNu, filePath - ../upload/168861836815722/64a64580d6ca0.dicom,  pngPath - /var/www/html/upload/168861836815722/64a64580d6ca0.png
+2023-07-06 13:39:56 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-06 13:39:56 File Upload successful(upload_check.php): tmpFile - /tmp/phpZQZuUW, filePath - ../upload/168861839549761/64a6459c2da38.dicom,  pngPath - /var/www/html/upload/168861839549761/64a6459c2da38.png
+2023-07-06 14:16:27 script to upload_check.php: success - up.dcm, fail - 
+2023-07-06 14:16:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpbQXH7o, filePath - ../upload/1688620586623196/64a64e2b544df.dcm,  pngPath - /var/www/html/upload/1688620586623196/64a64e2b544df.png
+2023-07-06 14:16:50 script to upload_check.php: success - IRB20210303_1_217173.8172.1.dcm, fail - 
+2023-07-06 14:16:50 File Upload successful(upload_check.php): tmpFile - /tmp/phpqiXfai, filePath - ../upload/1688620609522516/64a64e423a961.dcm,  pngPath - /var/www/html/upload/1688620609522516/64a64e423a961.png
+2023-07-06 14:19:24 script to upload_check.php: success - IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-06 14:19:24 File Upload successful(upload_check.php): tmpFile - /tmp/phpfNQobU, filePath - ../upload/1688620763569199/64a64edc4cf7d.dcm,  pngPath - /var/www/html/upload/1688620763569199/64a64edc4cf7d.png
+2023-07-06 14:22:39 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-06 14:22:39 File Upload successful(upload_check.php): tmpFile - /tmp/phpJ3FidD, filePath - ../upload/1688620958854585/64a64f9f92068.dicom,  pngPath - /var/www/html/upload/1688620958854585/64a64f9f92068.png
+2023-07-06 14:22:42 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 14:22:42 File Upload successful(upload_check.php): tmpFile - /tmp/phptNzuNS, filePath - ../upload/1688620961726921/64a64fa264d94.dcm,  pngPath - /var/www/html/upload/1688620961726921/64a64fa264d94.png
+2023-07-06 14:22:44 script to upload_check.php: success - IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-06 14:22:44 File Upload successful(upload_check.php): tmpFile - /tmp/php3X5Eke, filePath - ../upload/1688620964096194/64a64fa4c7c67.dcm,  pngPath - /var/www/html/upload/1688620964096194/64a64fa4c7c67.png
+2023-07-06 14:22:47 script to upload_check.php: success - IRB20210303_1_706963.1.1.dcm, fail - 
+2023-07-06 14:22:47 File Upload successful(upload_check.php): tmpFile - /tmp/phplWuuzG, filePath - ../upload/168862096676767/64a64fa76e2a1.dcm,  pngPath - /var/www/html/upload/168862096676767/64a64fa76e2a1.png
+2023-07-06 14:34:08 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-06 14:34:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpyKrwfz, filePath - ../upload/1688621648162765/64a65250dc746.dcm,  pngPath - /var/www/html/upload/1688621648162765/64a65250dc746.png
+2023-07-06 14:34:11 script to upload_check.php: success - IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-06 14:34:11 File Upload successful(upload_check.php): tmpFile - /tmp/phpvEglpS, filePath - ../upload/1688621650437474/64a652532169c.dcm,  pngPath - /var/www/html/upload/1688621650437474/64a652532169c.png
+2023-07-06 14:34:13 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-06 14:34:13 File Upload successful(upload_check.php): tmpFile - /tmp/phpd86pQ7, filePath - ../upload/1688621653143267/64a65255ce493.dicom,  pngPath - /var/www/html/upload/1688621653143267/64a65255ce493.png
+2023-07-06 15:36:45 script to upload_check.php: success - up.dcm, IRB20210303_1_217173.8172.1.dcm, bbb.dcm, fail - 
+2023-07-06 15:36:45 File Upload successful(upload_check.php): tmpFile - /tmp/phproM6u4, filePath - ../upload/1688625404820115/64a660fd9d761.dcm,  pngPath - /var/www/html/upload/1688625404820115/64a660fd9d761.png
+2023-07-06 15:36:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpGc0hXe, filePath - ../upload/1688625404820115/64a660fd9fd66.dcm,  pngPath - /var/www/html/upload/1688625404820115/64a660fd9fd66.png
+2023-07-06 15:36:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpYpdAsp, filePath - ../upload/1688625404820115/64a660fda1bde.dcm,  pngPath - /var/www/html/upload/1688625404820115/64a660fda1bde.png
+2023-07-07 11:14:20 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-07 11:14:21 File Upload successful(upload_check.php): tmpFile - /tmp/phpIhuwOm, filePath - ../upload/168869605939126/64a774fd0833d.dicom,  pngPath - /var/www/html/upload/168869605939126/64a774fd0833d.png
+2023-07-07 11:14:22 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-07 11:14:22 File Upload successful(upload_check.php): tmpFile - /tmp/phpEXlTxR, filePath - ../upload/1688696061383891/64a774fed8797.dcm,  pngPath - /var/www/html/upload/1688696061383891/64a774fed8797.png
+2023-07-07 11:14:30 script to upload_check.php: success - bbb.dcm, fail - 
+2023-07-07 11:14:30 File Upload successful(upload_check.php): tmpFile - /tmp/phpx4CRLQ, filePath - ../upload/1688696068574310/64a775061c667.dcm,  pngPath - /var/www/html/upload/1688696068574310/64a775061c667.png
+2023-07-07 11:42:31 script to upload_check.php: success - up.dcm, fail - 
+2023-07-07 11:42:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpQXKiJT, filePath - ../upload/1688697750138375/64a77b97ac47c.dcm,  pngPath - /var/www/html/upload/1688697750138375/64a77b97ac47c.png
+2023-07-07 11:42:44 script to upload_check.php: success - IRB20210303_1_1080916.1.1.dicom, fail - 
+2023-07-07 11:42:44 File Upload successful(upload_check.php): tmpFile - /tmp/phppx5Zrt, filePath - ../upload/1688697763164250/64a77ba4b9550.dicom,  pngPath - /var/www/html/upload/1688697763164250/64a77ba4b9550.png
+2023-07-07 12:21:09 script to upload_check.php: success - up.dcm, fail - 
+2023-07-07 12:21:09 File Upload successful(upload_check.php): tmpFile - /tmp/phpj9hlul, filePath - ../upload/168870006771163/64a784a54a820.dcm,  pngPath - /var/www/html/upload/168870006771163/64a784a54a820.png
+2023-07-07 12:21:15 script to upload_check.php: success - IRB20210303_2_3021894.1.1.dcm, fail - 
+2023-07-07 12:21:15 File Upload successful(upload_check.php): tmpFile - /tmp/phpQ1eyb4, filePath - ../upload/1688700073911535/64a784ab7a836.dcm,  pngPath - /var/www/html/upload/1688700073911535/64a784ab7a836.png
+2023-07-07 12:21:20 script to upload_check.php: success - IRB20210303_1_707246.1.1.dcm, fail - 
+2023-07-07 12:21:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpjwxfS0, filePath - ../upload/1688700078858891/64a784b064ed5.dcm,  pngPath - /var/www/html/upload/1688700078858891/64a784b064ed5.png
+2023-07-07 13:34:39 script to upload_check.php: success - zzz.dcm, fail - 
+2023-07-07 13:34:40 File Upload successful(upload_check.php): tmpFile - /tmp/php1ujWGZ, filePath - ../upload/1688704478351894/64a795e00c814.dcm,  pngPath - /var/www/html/upload/1688704478351894/64a795e00c814.png
+2023-07-07 13:50:40 script to upload_check.php: success - 11.dcm, 22.dcm, 33.dcm, 44.dcm, fail - 
+2023-07-07 13:50:41 File Upload successful(upload_check.php): tmpFile - /tmp/phpmVs6tD, filePath - ../upload/1688705439158321/64a799a110617.dcm,  pngPath - /var/www/html/upload/1688705439158321/64a799a110617.png
+2023-07-07 13:50:41 File Upload successful(upload_check.php): tmpFile - /tmp/phpyC9ZND, filePath - ../upload/1688705439158321/64a799a112a12.dcm,  pngPath - /var/www/html/upload/1688705439158321/64a799a112a12.png
+2023-07-07 13:50:41 File Upload successful(upload_check.php): tmpFile - /tmp/php7r8FjE, filePath - ../upload/1688705439158321/64a799a114acd.dcm,  pngPath - /var/www/html/upload/1688705439158321/64a799a114acd.png
+2023-07-07 13:50:41 File Upload successful(upload_check.php): tmpFile - /tmp/phpDMSg1E, filePath - ../upload/1688705439158321/64a799a11657b.dcm,  pngPath - /var/www/html/upload/1688705439158321/64a799a11657b.png
+2023-07-07 13:57:06 script to upload_check.php: success - 11.dcm, 22.dcm, 33.dcm, 44.dcm, fail - 
+2023-07-07 13:57:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpvQzZhE, filePath - ../upload/1688705825195366/64a79b22e188a.dcm,  pngPath - /var/www/html/upload/1688705825195366/64a79b22e188a.png
+2023-07-07 13:57:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpDXL7Hh, filePath - ../upload/1688705825195366/64a79b22e3cda.dcm,  pngPath - /var/www/html/upload/1688705825195366/64a79b22e3cda.png
+2023-07-07 13:57:06 File Upload successful(upload_check.php): tmpFile - /tmp/php88NgaV, filePath - ../upload/1688705825195366/64a79b22e5ce4.dcm,  pngPath - /var/www/html/upload/1688705825195366/64a79b22e5ce4.png
+2023-07-07 13:57:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpNmmrFy, filePath - ../upload/1688705825195366/64a79b22e778d.dcm,  pngPath - /var/www/html/upload/1688705825195366/64a79b22e778d.png
+2023-07-07 14:02:31 script to upload_check.php: success - 55.dcm, 66.dcm, 77.dcm, 88.dcm, 99.dcm, fail - 
+2023-07-07 14:02:31 File Upload successful(upload_check.php): tmpFile - /tmp/phptgfSXM, filePath - ../upload/1688706150212220/64a79c67eb1c7.dcm,  pngPath - /var/www/html/upload/1688706150212220/64a79c67eb1c7.png
+2023-07-07 14:02:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpmsZtlA, filePath - ../upload/1688706150212220/64a79c67ed4d8.dcm,  pngPath - /var/www/html/upload/1688706150212220/64a79c67ed4d8.png
+2023-07-07 14:02:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpHbtdLn, filePath - ../upload/1688706150212220/64a79c67ef1c2.dcm,  pngPath - /var/www/html/upload/1688706150212220/64a79c67ef1c2.png
+2023-07-07 14:02:31 File Upload successful(upload_check.php): tmpFile - /tmp/php6Xb3db, filePath - ../upload/1688706150212220/64a79c67f0ce9.dcm,  pngPath - /var/www/html/upload/1688706150212220/64a79c67f0ce9.png
+2023-07-07 14:02:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpuRa4JY, filePath - ../upload/1688706150212220/64a79c67f2707.dcm,  pngPath - /var/www/html/upload/1688706150212220/64a79c67f2707.png
+2023-07-07 14:40:26 script to upload_check.php: success - 66.dcm, 77.dcm, 88.dcm, 99.dcm, fail - 
+2023-07-07 14:40:26 File Upload successful(upload_check.php): tmpFile - /tmp/phpNKYGey, filePath - ../upload/168870842457075/64a7a54a57dae.dcm,  pngPath - /var/www/html/upload/168870842457075/64a7a54a57dae.png
+2023-07-07 14:40:26 File Upload successful(upload_check.php): tmpFile - /tmp/phpVEIGDr, filePath - ../upload/168870842457075/64a7a54a5a180.dcm,  pngPath - /var/www/html/upload/168870842457075/64a7a54a5a180.png
+2023-07-07 14:40:26 File Upload successful(upload_check.php): tmpFile - /tmp/phpoeEE6k, filePath - ../upload/168870842457075/64a7a54a5bb7c.dcm,  pngPath - /var/www/html/upload/168870842457075/64a7a54a5bb7c.png
+2023-07-07 14:40:26 File Upload successful(upload_check.php): tmpFile - /tmp/phpiaIaDe, filePath - ../upload/168870842457075/64a7a54a5d4c9.dcm,  pngPath - /var/www/html/upload/168870842457075/64a7a54a5d4c9.png
+2023-07-07 16:30:57 script to upload_check.php: success - 77.dcm, fail - 
+2023-07-07 16:30:57 File Upload successful(upload_check.php): tmpFile - /tmp/phpbFEe3y, filePath - ../upload/1688715056154944/64a7bf31f3563.dcm,  pngPath - /var/www/html/upload/1688715056154944/64a7bf31f3563.png
+2023-07-07 17:13:11 script to upload_check.php: success - IRB20210303_1_212365.1.1.dcm, fail - 
+2023-07-07 17:19:11 script to upload_check.php: success - 77.dcm, fail - 
+2023-07-07 17:19:11 File Upload successful(upload_check.php): tmpFile - /tmp/phpOkwNZY, filePath - ../upload/1688717949404503/64a7ca7f94f1a.dcm,  pngPath - /var/www/html/upload/1688717949404503/64a7ca7f94f1a.png
+2023-07-07 17:29:23 script to upload_check.php: success - 55.dcm, 66.dcm, 77.dcm, 88.dcm, fail - 
+2023-07-07 17:29:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpHiN5mC, filePath - ../upload/1688718561464137/64a7cce35d8a3.dcm,  pngPath - /var/www/html/upload/1688718561464137/64a7cce35d8a3.png
+2023-07-07 17:29:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpAz1J8Y, filePath - ../upload/1688718561464137/64a7cce3607ad.dcm,  pngPath - /var/www/html/upload/1688718561464137/64a7cce3607ad.png
+2023-07-07 17:29:23 File Upload successful(upload_check.php): tmpFile - /tmp/php52A9Wl, filePath - ../upload/1688718561464137/64a7cce3625a7.dcm,  pngPath - /var/www/html/upload/1688718561464137/64a7cce3625a7.png
+2023-07-07 17:29:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpwiaSOI, filePath - ../upload/1688718561464137/64a7cce363eaa.dcm,  pngPath - /var/www/html/upload/1688718561464137/64a7cce363eaa.png
+2023-07-07 18:33:01 script to upload_check.php: success - IRB20210303_1_212365.1.1.dcm, fail - 
+2023-07-07 18:33:02 File Upload successful(upload_check.php): tmpFile - /tmp/phpoazhzY, filePath - ../upload/1688722382846137/64a7dbceb048c.dcm,  pngPath - /var/www/html/upload/1688722382846137/64a7dbceb048c.png
+2023-07-07 18:35:21 script to upload_check.php: success - sj.dicom, fail - 
+2023-07-07 18:35:21 File Upload successful(upload_check.php): tmpFile - /tmp/phpr56QEM, filePath - ../upload/1688722519653888/64a7dc597f626.dicom,  pngPath - /var/www/html/upload/1688722519653888/64a7dc597f626.png
+2023-07-07 18:35:31 script to upload_check.php: success - sj.dicom, fail - 
+2023-07-07 18:35:31 File Upload successful(upload_check.php): tmpFile - /tmp/phpstnfJY, filePath - ../upload/1688722529610318/64a7dc636bf3c.dicom,  pngPath - /var/www/html/upload/1688722529610318/64a7dc636bf3c.png
+2023-07-07 18:36:21 script to upload_check.php: success - sj.dicom, fail - 
+2023-07-07 18:36:21 File Upload successful(upload_check.php): tmpFile - /tmp/phpajYEwM, filePath - ../upload/1688722579326985/64a7dc9534c1e.dicom,  pngPath - /var/www/html/upload/1688722579326985/64a7dc9534c1e.png
+2023-07-07 18:36:27 script to upload_check.php: success - sj.dicom, fail - 
+2023-07-07 18:36:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpI0yNfk, filePath - ../upload/1688722585693940/64a7dc9b7fcf1.dicom,  pngPath - /var/www/html/upload/1688722585693940/64a7dc9b7fcf1.png
+2023-07-07 18:36:44 script to upload_check.php: success - sj.dicom, fail - 
+2023-07-07 18:36:44 File Upload successful(upload_check.php): tmpFile - /tmp/phpIyRVON, filePath - ../upload/1688722602998787/64a7dcacceecf.dicom,  pngPath - /var/www/html/upload/1688722602998787/64a7dcacceecf.png
+2023-07-07 18:36:47 script to upload_check.php: success - 99.dcm, fail - 
+2023-07-07 18:36:47 File Upload successful(upload_check.php): tmpFile - /tmp/phpyGzJnV, filePath - ../upload/1688722605555267/64a7dcaf57e2e.dcm,  pngPath - /var/www/html/upload/1688722605555267/64a7dcaf57e2e.png
+2023-07-10 10:52:02 script to upload_check.php: success - 77.dcm, fail - 
+2023-07-10 10:52:02 File Upload successful(upload_check.php): tmpFile - /tmp/phpTErSV1, filePath - ../upload/1688953922064144/64ab6442981c8.dcm,  pngPath - /var/www/html/upload/1688953922064144/64ab6442981c8.png
+2023-07-10 10:53:04 script to upload_check.php: success - 55.dcm, fail - 
+2023-07-10 10:53:04 File Upload successful(upload_check.php): tmpFile - /tmp/phpoZ8cs7, filePath - ../upload/1688953984139955/64ab6480a6edf.dcm,  pngPath - /var/www/html/upload/1688953984139955/64ab6480a6edf.png
+2023-07-10 10:53:12 script to upload_check.php: success - 99.dcm, fail - 
+2023-07-10 10:53:12 File Upload successful(upload_check.php): tmpFile - /tmp/phpbD02ax, filePath - ../upload/168895399204848/64ab648890a33.dcm,  pngPath - /var/www/html/upload/168895399204848/64ab648890a33.png
+2023-07-10 10:53:34 script to upload_check.php: success - 1.dcm, 2.dcm, 3.dcm, fail - 
+2023-07-10 10:53:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpkyCDob, filePath - ../upload/1688954013928943/64ab649eaeb1b.dcm,  pngPath - /var/www/html/upload/1688954013928943/64ab649eaeb1b.png
+2023-07-10 10:53:34 File Upload successful(upload_check.php): tmpFile - /tmp/php7Bb6zA, filePath - ../upload/1688954013928943/64ab649eb10d9.dcm,  pngPath - /var/www/html/upload/1688954013928943/64ab649eb10d9.png
+2023-07-10 10:53:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpJxD8XZ, filePath - ../upload/1688954013928943/64ab649eb2b73.dcm,  pngPath - /var/www/html/upload/1688954013928943/64ab649eb2b73.png
+2023-07-10 16:41:06 script to upload_check.php: success - 1.dcm, fail - 
+2023-07-10 16:41:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpm6WWJ3, filePath - ../upload/1688974865804552/64abb61292660.dcm, pngPath - /var/www/html/upload/1688974865804552/64abb61292660.png
+2023-07-10 16:43:03 script to upload_check.php: success - 1.dcm, 2.dcm, 3.dcm, fail - 
+2023-07-10 16:43:03 File Upload successful(upload_check.php): tmpFile - /tmp/phppAVXeu, filePath - ../upload/1688974983113299/64abb687ec802.dcm, pngPath - /var/www/html/upload/1688974983113299/64abb687ec802.png
+2023-07-10 16:43:03 File Upload successful(upload_check.php): tmpFile - /tmp/phpehY8WZ, filePath - ../upload/1688974983113299/64abb687ed980.dcm, pngPath - /var/www/html/upload/1688974983113299/64abb687ed980.png
+2023-07-10 16:43:03 File Upload successful(upload_check.php): tmpFile - /tmp/php3TXEGv, filePath - ../upload/1688974983113299/64abb687ede9b.dcm, pngPath - /var/www/html/upload/1688974983113299/64abb687ede9b.png
+2023-07-10 16:43:09 script to upload_check.php: success - 55.dcm, 66.dcm, fail - 
+2023-07-10 16:43:09 File Upload successful(upload_check.php): tmpFile - /tmp/phpMwgEo1, filePath - ../upload/1688974988574369/64abb68d5f29b.dcm, pngPath - /var/www/html/upload/1688974988574369/64abb68d5f29b.png
+2023-07-10 16:43:09 File Upload successful(upload_check.php): tmpFile - /tmp/phpKdKQJK, filePath - ../upload/1688974988574369/64abb68d5ff9c.dcm, pngPath - /var/www/html/upload/1688974988574369/64abb68d5ff9c.png
+2023-07-10 16:43:12 script to upload_check.php: success - 3.dcm, fail - 
+2023-07-10 16:43:12 File Upload successful(upload_check.php): tmpFile - /tmp/php33E2gD, filePath - ../upload/1688974991404509/64abb69027e33.dcm, pngPath - /var/www/html/upload/1688974991404509/64abb69027e33.png
+2023-07-10 17:00:12 script to upload_check.php: success - 1.dcm, fail - 
+2023-07-10 17:00:13 File Upload successful(upload_check.php): tmpFile - /tmp/phpfVS5qh, filePath - ../upload/168897601224235/64abba8d183ba.dcm, pngPath - /var/www/html/upload/168897601224235/64abba8d183ba.png
+2023-07-11 10:39:14 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, 2.dcm, fail - 
+2023-07-11 10:39:28 script to upload_check.php: success - 2.dcm, 3.dcm, fail - 
+2023-07-11 10:43:19 script to upload_check.php: success - 1.dcm, fail - 
+2023-07-11 10:54:33 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:00:31 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 11:00:54 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 11:02:37 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:02:38 File Upload successful(upload_check.php): tmpFile - /tmp/phpAmpwaM, filePath - ../upload/1689040956513561/64acb83e1384b.dcm, pngPath - /var/www/html/upload/1689040956513561/64acb83e1384b.png
+2023-07-11 11:02:38 File Upload successful(upload_check.php): tmpFile - /tmp/phpKRpjIK, filePath - ../upload/1689040956513561/64acb83e14fcf.dcm, pngPath - /var/www/html/upload/1689040956513561/64acb83e14fcf.png
+2023-07-11 11:02:38 File Upload successful(upload_check.php): tmpFile - /tmp/phpmVhthJ, filePath - ../upload/1689040956513561/64acb83e15b9a.dcm, pngPath - /var/www/html/upload/1689040956513561/64acb83e15b9a.png
+2023-07-11 11:03:57 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 11:03:57 File Upload successful(upload_check.php): tmpFile - /tmp/phput1XxH, filePath - ../upload/1689041035847633/64acb88d70876.dcm, pngPath - /var/www/html/upload/1689041035847633/64acb88d70876.png
+2023-07-11 11:03:57 File Upload successful(upload_check.php): tmpFile - /tmp/phpkR5pbT, filePath - ../upload/1689041035847633/64acb88d71542.dcm, pngPath - /var/www/html/upload/1689041035847633/64acb88d71542.png
+2023-07-11 11:03:57 File Upload successful(upload_check.php): tmpFile - /tmp/phptPPlZ4, filePath - ../upload/1689041035847633/64acb88d72007.dcm, pngPath - /var/www/html/upload/1689041035847633/64acb88d72007.png
+2023-07-11 11:48:16 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:48:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpuQGzhH, filePath - ../upload/1689043695363773/64acc2f0ec68f.dcm, pngPath - /var/www/html/upload/1689043695363773/64acc2f0ec68f.png
+2023-07-11 11:48:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpOLXfQz, filePath - ../upload/1689043695363773/64acc2f0ed3db.dcm, pngPath - /var/www/html/upload/1689043695363773/64acc2f0ed3db.png
+2023-07-11 11:48:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpX8d1qs, filePath - ../upload/1689043695363773/64acc2f0eddee.dcm, pngPath - /var/www/html/upload/1689043695363773/64acc2f0eddee.png
+2023-07-11 11:51:11 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:51:28 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:51:49 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:53:15 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:53:16 File Upload successful(upload_check.php): tmpFile - /tmp/php7bKzmG, filePath - ../upload/1689043994374796/64acc41c2bb51.dcm, pngPath - /var/www/html/upload/1689043994374796/64acc41c2bb51.png
+2023-07-11 11:53:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpxjgBLF, filePath - ../upload/1689043994374796/64acc41c2c8ec.dcm, pngPath - /var/www/html/upload/1689043994374796/64acc41c2c8ec.png
+2023-07-11 11:53:16 File Upload successful(upload_check.php): tmpFile - /tmp/phpiavcqF, filePath - ../upload/1689043994374796/64acc41c2cf5c.dcm, pngPath - /var/www/html/upload/1689043994374796/64acc41c2cf5c.png
+2023-07-11 11:54:01 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 11:54:01 File Upload successful(upload_check.php): tmpFile - /tmp/php71nkwB, filePath - ../upload/1689044039909574/64acc4497e6eb.dcm, pngPath - /var/www/html/upload/1689044039909574/64acc4497e6eb.png
+2023-07-11 11:54:01 File Upload successful(upload_check.php): tmpFile - /tmp/phpzMaq5q, filePath - ../upload/1689044039909574/64acc4497f527.dcm, pngPath - /var/www/html/upload/1689044039909574/64acc4497f527.png
+2023-07-11 11:54:01 File Upload successful(upload_check.php): tmpFile - /tmp/phpEdxsGg, filePath - ../upload/1689044039909574/64acc4497ff4a.dcm, pngPath - /var/www/html/upload/1689044039909574/64acc4497ff4a.png
+2023-07-11 12:45:34 script to upload_check.php: success - 1.dcm, 55.dcm, 66.dcm, fail - 
+2023-07-11 12:45:34 File Upload successful(upload_check.php): tmpFile - /tmp/phph5CG9s, filePath - ../upload/1689047133094747/64acd05eaf703.dcm, pngPath - /var/www/html/upload/1689047133094747/64acd05eaf703.png
+2023-07-11 12:45:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpMnrzoy, filePath - ../upload/1689047133094747/64acd05eb0401.dcm, pngPath - /var/www/html/upload/1689047133094747/64acd05eb0401.png
+2023-07-11 12:45:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpQypzFD, filePath - ../upload/1689047133094747/64acd05eb09eb.dcm, pngPath - /var/www/html/upload/1689047133094747/64acd05eb09eb.png
+2023-07-11 12:47:35 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 12:47:35 File Upload successful(upload_check.php): tmpFile - /tmp/phplIztlj, filePath - ../upload/1689047253718148/64acd0d75e438.dcm, pngPath - /var/www/html/upload/1689047253718148/64acd0d75e438.png
+2023-07-11 12:47:35 File Upload successful(upload_check.php): tmpFile - /tmp/phpfagqxh, filePath - ../upload/1689047253718148/64acd0d75efd2.dcm, pngPath - /var/www/html/upload/1689047253718148/64acd0d75efd2.png
+2023-07-11 12:47:35 File Upload successful(upload_check.php): tmpFile - /tmp/php4yFSKf, filePath - ../upload/1689047253718148/64acd0d75f920.dcm, pngPath - /var/www/html/upload/1689047253718148/64acd0d75f920.png
+2023-07-11 12:47:58 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 12:47:58 File Upload successful(upload_check.php): tmpFile - /tmp/phpWFBIZO, filePath - ../upload/1689047277085241/64acd0eeb53ac.dcm, pngPath - /var/www/html/upload/1689047277085241/64acd0eeb53ac.png
+2023-07-11 12:47:58 File Upload successful(upload_check.php): tmpFile - /tmp/phpAb1PHJ, filePath - ../upload/1689047277085241/64acd0eeb5fce.dcm, pngPath - /var/www/html/upload/1689047277085241/64acd0eeb5fce.png
+2023-07-11 12:47:58 File Upload successful(upload_check.php): tmpFile - /tmp/phpsHMrsE, filePath - ../upload/1689047277085241/64acd0eeb6851.dcm, pngPath - /var/www/html/upload/1689047277085241/64acd0eeb6851.png
+2023-07-11 12:50:30 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 12:50:30 File Upload successful(upload_check.php): tmpFile - /tmp/phph9ZX2f, filePath - ../upload/1689047428754669/64acd186629a2.dcm, pngPath - /var/www/html/upload/1689047428754669/64acd186629a2.png 3
+2023-07-11 12:50:30 File Upload successful(upload_check.php): tmpFile - /tmp/phpfATfyj, filePath - ../upload/1689047428754669/64acd18663493.dcm, pngPath - /var/www/html/upload/1689047428754669/64acd18663493.png 3
+2023-07-11 12:50:30 File Upload successful(upload_check.php): tmpFile - /tmp/php1gTp6m, filePath - ../upload/1689047428754669/64acd186639b0.dcm, pngPath - /var/www/html/upload/1689047428754669/64acd186639b0.png 3
+2023-07-11 12:52:16 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 12:52:17 File Upload successful(upload_check.php): tmpFile - /tmp/phpZwJkGk, filePath - ../upload/168904753541023/64acd1f10d789.dcm, pngPath - /var/www/html/upload/168904753541023/64acd1f10d789.png 3
+2023-07-11 12:56:40 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 12:56:40 File Upload successful(upload_check.php): tmpFile - /tmp/phppinCPp, filePath - ../upload/1689047798928147/64acd2f8ca5ed.dcm, pngPath - /var/www/html/upload/1689047798928147/64acd2f8ca5ed.png 3
+2023-07-11 12:59:54 script to upload_check.php: success - 55.dcm, 66.dcm, fail - 
+2023-07-11 12:59:54 File Upload successful(upload_check.php): tmpFile - /tmp/phptb8a1q, filePath - ../upload/1689047992807912/64acd3ba85d02.dcm, pngPath - /var/www/html/upload/1689047992807912/64acd3ba85d02.png 3
+2023-07-11 13:00:35 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:00:36 File Upload successful(upload_check.php): tmpFile - /tmp/phpZq9ODg, filePath - ../upload/1689048034273592/64acd3e413c2f.dcm, pngPath - /var/www/html/upload/1689048034273592/64acd3e413c2f.png 3
+2023-07-11 13:01:10 script to upload_check.php: success - 55.dcm, fail - 
+2023-07-11 13:01:10 File Upload successful(upload_check.php): tmpFile - /tmp/php2qqxs3, filePath - ../upload/1689048068753928/64acd40657ddc.dcm, pngPath - /var/www/html/upload/1689048068753928/64acd40657ddc.png 3
+2023-07-11 13:01:13 script to upload_check.php: success - 66.dcm, 1.dcm, fail - 
+2023-07-11 13:01:13 File Upload successful(upload_check.php): tmpFile - /tmp/phphPAPl9, filePath - ../upload/1689048071839226/64acd40970093.dcm, pngPath - /var/www/html/upload/1689048071839226/64acd40970093.png 4
+2023-07-11 13:02:37 script to upload_check.php: success - 55.dcm, 66.dcm, fail - 
+2023-07-11 13:02:37 File Upload successful(upload_check.php): tmpFile - /tmp/phpgG9Jnp, filePath - ../upload/1689048155491147/64acd45d20dc0.dcm, pngPath - /var/www/html/upload/1689048155491147/64acd45d20dc0.png 3
+2023-07-11 13:06:32 script to upload_check.php: success - 55.dcm, fail - 
+2023-07-11 13:06:32 File Upload successful(upload_check.php): tmpFile - /tmp/phpAr9bah, filePath - ../upload/1689048391246794/64acd548cca19.dcm, pngPath - /var/www/html/upload/1689048391246794/64acd548cca19.png 3
+2023-07-11 13:06:35 script to upload_check.php: success - 55.dcm, 66.dcm, fail - 
+2023-07-11 13:06:35 File Upload successful(upload_check.php): tmpFile - /tmp/phppN1pMM, filePath - ../upload/1689048394088465/64acd54bb1fc3.dcm, pngPath - /var/www/html/upload/1689048394088465/64acd54bb1fc3.png 4
+2023-07-11 13:18:33 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:18:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpW9ISK7, filePath - ../upload/1689049111452236/64acd81919088.dcm, pngPath - /var/www/html/upload/1689049111452236/64acd81919088.png 3
+2023-07-11 13:34:24 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:34:24 File Upload successful(upload_check.php): tmpFile - /tmp/phpLTrsGr, filePath - ../upload/1689050063274269/64acdbd0eac4d.dcm, pngPath - /var/www/html/upload/1689050063274269/64acdbd0eac4d.png 3
+2023-07-11 13:36:46 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:36:46 File Upload successful(upload_check.php): tmpFile - /tmp/php8yjFdT, filePath - ../upload/1689050204753460/64acdc5e6a100.dcm, pngPath - /var/www/html/upload/1689050204753460/64acdc5e6a100.png 3
+2023-07-11 13:40:19 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:40:52 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:40:53 File Upload successful(upload_check.php): tmpFile - /tmp/phppMC8Mk, filePath - ../upload/1689050451402720/64acdd5513077.dcm, pngPath - /var/www/html/upload/1689050451402720/64acdd5513077.png 3
+2023-07-11 13:41:31 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:41:31 File Upload successful(upload_check.php): tmpFile - /tmp/php3y7u1U, filePath - ../upload/1689050489646485/64acdd7b5c16f.dcm, pngPath - /var/www/html/upload/1689050489646485/64acdd7b5c16f.png 3
+2023-07-11 13:42:58 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:42:59 File Upload successful(upload_check.php): tmpFile - /tmp/phpRqg893, filePath - ../upload/1689050577413194/64acddd3181c0.dcm, pngPath - /var/www/html/upload/1689050577413194/64acddd3181c0.png 3
+2023-07-11 13:43:19 script to upload_check.php: success - 1.dcm, fail - 
+2023-07-11 13:43:19 File Upload successful(upload_check.php): tmpFile - /tmp/phpwAdGsE, filePath - ../upload/1689050598258735/64acdde7d9f58.dcm, pngPath - /var/www/html/upload/1689050598258735/64acdde7d9f58.png 3
+2023-07-11 13:44:14 script to upload_check.php: success - 55.dcm, fail - 
+2023-07-11 13:44:14 File Upload successful(upload_check.php): tmpFile - /tmp/php8zAj3R, filePath - ../upload/1689050652596476/64acde1e360f3.dcm, pngPath - /var/www/html/upload/1689050652596476/64acde1e360f3.png 3
+2023-07-11 13:44:22 script to upload_check.php: success - 1.dcm, 66.dcm, fail - 
+2023-07-11 13:44:22 File Upload successful(upload_check.php): tmpFile - /tmp/php3EUiDI, filePath - ../upload/1689050660653474/64acde2659bcf.dcm, pngPath - /var/www/html/upload/1689050660653474/64acde2659bcf.png 4
+2023-07-11 13:46:50 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:47:35 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:50:03 script to upload_check.php: success - 1.dcm, 66.dcm, fail - 
+2023-07-11 13:51:36 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:52:21 script to upload_check.php: success - 66.dcm, 55.dcm, fail - 
+2023-07-11 13:54:23 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 13:55:54 script to upload_check.php: success - 55.dcm, 66.dcm, 1.dcm, fail - 
+2023-07-11 14:06:34 script to upload_check.php: success - 2.dcm, 3.dcm, 1.dcm, fail - 
+2023-07-11 14:06:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpgflqjz, filePath - ../upload/1689051993114530/64ace35ac6b40.dcm
+2023-07-11 14:06:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpwU6xYr, filePath - ../upload/1689051993114530/64ace35ac77d8.dcm
+2023-07-11 14:06:34 File Upload successful(upload_check.php): tmpFile - /tmp/phpf7bpGk, filePath - ../upload/1689051993114530/64ace35ac8033.dcm
+2023-07-11 14:10:02 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 14:10:03 File Upload successful(upload_check.php): tmpFile - /tmp/phpitn9t4, filePath - ../upload/1689052201315122/64ace42b07bd8.dcm
+2023-07-11 14:11:18 script to upload_check.php: success - 1.dcm, 66.dcm, fail - 
+2023-07-11 14:11:19 File Upload successful(upload_check.php): tmpFile - /tmp/phpuvfthZ, filePath - ../upload/1689052277216487/64ace47705ab8.dcm
+2023-07-11 14:11:19 File Upload successful(upload_check.php): tmpFile - /tmp/phpGnzTmn, filePath - ../upload/1689052277216487/64ace47706b3a.dcm
+2023-07-11 14:11:49 script to upload_check.php: success - 1.dcm, 2.dcm, 3.dcm, fail - 
+2023-07-11 14:11:49 File Upload successful(upload_check.php): tmpFile - /tmp/phplZp7Fj, filePath - ../upload/1689052307717862/64ace49595563.dcm
+2023-07-11 14:11:49 File Upload successful(upload_check.php): tmpFile - /tmp/phpNGucmW, filePath - ../upload/1689052307717862/64ace495962c6.dcm
+2023-07-11 14:11:49 File Upload successful(upload_check.php): tmpFile - /tmp/php2hgRgz, filePath - ../upload/1689052307717862/64ace49596e18.dcm
+2023-07-11 14:12:19 script to upload_check.php: success - 1.dcm, fail - 
+2023-07-11 14:12:19 File Upload successful(upload_check.php): tmpFile - /tmp/phpJ2M57u, filePath - ../upload/1689052338324661/64ace4b3f2e82.dcm
+2023-07-11 14:12:27 script to upload_check.php: success - 2.dcm, 3.dcm, fail - 
+2023-07-11 14:12:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpGJThPX, filePath - ../upload/1689052345615911/64ace4bb4c3b7.dcm
+2023-07-11 14:12:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpuRily7, filePath - ../upload/1689052345615911/64ace4bb4d122.dcm
+2023-07-11 14:12:52 script to upload_check.php: success - 2.dcm, fail - 
+2023-07-11 14:12:52 File Upload successful(upload_check.php): tmpFile - /tmp/phpIRU7Hv, filePath - ../upload/1689052370911423/64ace4d488f5c.dcm
+2023-07-11 14:13:28 script to upload_check.php: success - 1.dcm, fail - 
+2023-07-11 14:13:28 File Upload successful(upload_check.php): tmpFile - /tmp/phpb1vDY1, filePath - ../upload/168905240681227/64ace4f87302b.dcm
+2023-07-11 14:14:01 script to upload_check.php: success - 2.dcm, fail - 
+2023-07-11 14:14:01 File Upload successful(upload_check.php): tmpFile - /tmp/phpybEP3J, filePath - ../upload/1689052439623713/64ace51947410.dcm
+2023-07-11 14:14:19 script to upload_check.php: success - 1.dcm, 2.dcm, 3.dcm, fail - 
+2023-07-11 14:14:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpkaBFfz, filePath - ../upload/1689052458324467/64ace52c06be3.dcm
+2023-07-11 14:14:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpqtcoSh, filePath - ../upload/1689052458324467/64ace52c07905.dcm
+2023-07-11 14:14:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpdDYlz0, filePath - ../upload/1689052458324467/64ace52c08352.dcm
+2023-07-11 14:15:07 script to upload_check.php: success - 2.dcm, 3.dcm, fail - 
+2023-07-11 14:15:07 File Upload successful(upload_check.php): tmpFile - /tmp/phpUwlo6m, filePath - ../upload/1689052505547120/64ace55b3bca5.dcm
+2023-07-11 14:15:07 File Upload successful(upload_check.php): tmpFile - /tmp/phpDpmMl0, filePath - ../upload/1689052505547120/64ace55b3c90d.dcm
+2023-07-11 14:22:23 script to upload_check.php: success - 2.dcm, 3.dcm, fail - 
+2023-07-11 14:22:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpDSU0lj, filePath - ../upload/1689052941437946/64ace70f38148.dcm
+2023-07-11 14:22:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpz7JJXA, filePath - ../upload/1689052941437946/64ace70f38e33.dcm
+2023-07-11 14:23:22 script to upload_check.php: success - 2.dcm, 3.dcm, fail - 
+2023-07-11 14:23:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpx3C1S0, filePath - ../upload/1689053001232868/64ace74b20020.dcm
+2023-07-11 14:23:23 File Upload successful(upload_check.php): tmpFile - /tmp/phpOBglMI, filePath - ../upload/1689053001232868/64ace74b20d3b.dcm
+2023-07-11 14:23:45 script to upload_check.php: success - 1.dcm, 2.dcm, 3.dcm, fail - 
+2023-07-11 14:23:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpIGrrHY, filePath - ../upload/1689053023662328/64ace7616401d.dcm
+2023-07-11 14:23:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpjqvqAA, filePath - ../upload/1689053023662328/64ace76164f20.dcm
+2023-07-11 14:23:45 File Upload successful(upload_check.php): tmpFile - /tmp/php8fFsvc, filePath - ../upload/1689053023662328/64ace7616591a.dcm
+2023-07-11 14:26:20 script to upload_check.php: success - 2.dcm, 3.dcm, 1.dcm, fail - 
+2023-07-11 14:26:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpvCwbBB, filePath - ../upload/1689053178616677/64ace7fc51095.dcm
+2023-07-11 14:26:20 File Upload successful(upload_check.php): tmpFile - /tmp/phpTSPcxu, filePath - ../upload/1689053178616677/64ace7fc51d5e.dcm
+2023-07-11 14:35:42 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 14:35:42 File Upload successful(upload_check.php): tmpFile - /tmp/phpx6Obds, filePath - ../upload/168905374057757/64acea2e43108.dcm
+2023-07-11 14:35:42 File Upload successful(upload_check.php): tmpFile - /tmp/phpQCmuZ5, filePath - ../upload/168905374057757/64acea2e43f21.dcm
+2023-07-11 14:38:06 script to upload_check.php: success - 66.dcm, 1.dcm, 55.dcm, fail - 
+2023-07-11 14:38:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpTjYfNg, filePath - ../upload/1689053884661163/64aceabe56dab.dcm
+2023-07-11 14:38:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpBTbBhK, filePath - ../upload/1689053884661163/64aceabe585f7.dcm
+2023-07-12 13:19:59 script to upload_check.php: success - 55.dcm, fail - 
+2023-07-12 13:19:59 File Upload successful(upload_check.php): tmpFile - /tmp/php7oLHnr, filePath - ../upload/1689135598481443/64ae29ef24783.dcm
+2023-07-12 13:20:03 script to upload_check.php: success - 66.dcm, fail - 
+2023-07-12 13:20:04 File Upload successful(upload_check.php): tmpFile - /tmp/php8P1iqS, filePath - ../upload/1689135603334704/64ae29f40150c.dcm
+2023-07-13 14:32:53 script to upload_check.php: success - 020700000000.dcm, fail - 
+2023-07-13 14:32:55 File Upload successful(upload_check.php): tmpFile - /tmp/phpDZVe69, filePath - ../upload/1689226370692810/64af8c87157f9.dcm
+2023-07-18 15:42:23 script to upload_check.php: success - dd.dcm, fail - 
+2023-07-18 15:42:23 File Upload successful(upload_check.php): tmpFile - /tmp/phplLcliP, filePath - ../upload/1689662543450825/64b6344fa2d82.dcm
+2023-08-03 12:03:51 script to upload_check.php: success - 1000001.dcm, fail - 
+2023-08-03 12:03:52 File Upload successful(upload_check.php): tmpFile - /tmp/phpfKg8UY, filePath - ../upload/1691031830622119/64cb191863dba.dcm
+2023-08-03 12:15:02 script to upload_check.php: success - 0101.dcm, fail - 
+2023-08-03 12:15:08 File Upload successful(upload_check.php): tmpFile - /tmp/phppd5bRt, filePath - ../upload/1691032496636930/64cb1bbc33b8f.dcm
+2023-08-09 13:49:33 script to upload_check.php: success - 66.dcm, fail - 
+2023-08-09 13:49:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpEX3Oy0, filePath - ../upload/1691556572085279/64d31addb88ca.dcm
+2023-08-09 14:49:43 script to upload_check.php: success - 66.dcm, fail - 
+2023-08-09 14:49:43 File Upload successful(upload_check.php): tmpFile - /tmp/phpzdwvz0, filePath - ../upload/1691560182105406/64d328f7b3a8d.dcm
+2023-08-09 16:37:09 script to upload_check.php: success - 66.dcm, fail - 
+2023-08-09 16:37:09 File Upload successful(upload_check.php): tmpFile - /tmp/phpvLGT2m, filePath - ../upload/1691566626216682/64d34225f1f4a.dcm
+2023-08-09 16:40:42 script to upload_check.php: success - 66.dcm, fail - 
+2023-08-09 16:40:43 File Upload successful(upload_check.php): tmpFile - /tmp/php0rVNg3, filePath - ../upload/1691566839707497/64d342fb2e052.dcm
+2023-08-09 16:40:44 script to upload_check.php: success - 66.dcm, fail - 
+2023-08-09 16:40:45 File Upload successful(upload_check.php): tmpFile - /tmp/phpQgkmG7, filePath - ../upload/1691566842106985/64d342fd6cd69.dcm
+2023-08-09 16:40:47 script to upload_check.php: success - test.dcm, fail - 
+2023-08-09 16:40:49 File Upload successful(upload_check.php): tmpFile - /tmp/phpIZvYAW, filePath - ../upload/1691566844988591/64d3430177201.dcm
+2023-08-09 16:40:50 script to upload_check.php: success - test.dcm, fail - 
+2023-08-09 16:40:51 File Upload successful(upload_check.php): tmpFile - /tmp/phpROGNEF, filePath - ../upload/1691566847155845/64d3430380f00.dcm
+2023-08-09 16:40:52 script to upload_check.php: success - test.dcm, fail - 
+2023-08-09 16:40:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpJt9tHj, filePath - ../upload/1691566849555487/64d343061384f.dcm
+2023-08-09 16:42:03 script to upload_check.php: success - 66.dcm, test.dcm, fail - 
+2023-08-09 16:42:05 File Upload successful(upload_check.php): tmpFile - /tmp/phpdgFEqg, filePath - ../upload/1691566920442818/64d3434dc0977.dcm
+2023-08-09 16:42:05 File Upload successful(upload_check.php): tmpFile - /tmp/php1kqXRe, filePath - ../upload/1691566920442818/64d3434dc3434.dcm
+2023-08-09 16:42:06 script to upload_check.php: success - 66.dcm, test.dcm, fail - 
+2023-08-09 16:42:08 File Upload successful(upload_check.php): tmpFile - /tmp/phppb429a, filePath - ../upload/1691566923780916/64d34350a545c.dcm
+2023-08-09 16:42:08 File Upload successful(upload_check.php): tmpFile - /tmp/phpUdqhDh, filePath - ../upload/1691566923780916/64d34350a6314.dcm
+2023-08-09 16:42:09 script to upload_check.php: success - 66.dcm, test.dcm, fail - 
+2023-08-09 16:42:11 File Upload successful(upload_check.php): tmpFile - /tmp/phpwTwE2Q, filePath - ../upload/1691566926309516/64d343533bfa1.dcm
+2023-08-11 13:37:27 script to upload_check.php: success - dd.dcm, fail - 
+2023-08-11 13:37:27 File Upload successful(upload_check.php): tmpFile - /tmp/phpyEe4HT, filePath - ../upload/1691728645493232/64d5bb073c9b3.dcm
+2023-08-11 14:07:06 script to upload_check.php: success - dd.dcm, fail - 식약처인허가2.txt, output.txt
+2023-08-11 14:07:06 File Upload successful(upload_check.php): tmpFile - /tmp/phpMBtDMF, filePath - ../upload/1691730425091370/64d5c1faaa5ac.dcm
+2023-08-11 14:07:32 script to upload_check.php: success - dd.dcm, 1.dcm, 3.dcm, 55.dcm, 2.dcm, fail - output.txt
+2023-08-11 14:07:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpDC0l3p, filePath - ../upload/1691730451354641/64d5c21519d7b.dcm
+2023-08-11 14:07:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpWrcS45, filePath - ../upload/1691730451354641/64d5c2151ab3e.dcm
+2023-08-11 14:07:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpCmWwaM, filePath - ../upload/1691730451354641/64d5c2151b2a8.dcm
+2023-08-11 14:07:33 File Upload successful(upload_check.php): tmpFile - /tmp/phpE2XLjs, filePath - ../upload/1691730451354641/64d5c2151bc54.dcm
+2023-08-11 14:08:32 Upload failed(dropzone): Upload File Count Exceeded 
+2023-08-11 14:11:49 script to upload_check.php: success - test.dcm, fail - 
+2023-08-11 14:11:49 File Upload successful(upload_check.php): tmpFile - /tmp/phpg2EQXZ, filePath - ../upload/1691730707594469/64d5c31547e42.dcm
+2023-08-11 14:11:54 script to upload_check.php: success - 1.dcm, 2.dcm, 3.dcm, 66.dcm, dd.dcm, fail - 
+2023-08-11 14:11:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpsP5amA, filePath - ../upload/1691730712621121/64d5c31a41834.dcm
+2023-08-11 14:11:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpr8BK4P, filePath - ../upload/1691730712621121/64d5c31a42402.dcm
+2023-08-11 14:11:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpnIcsP5, filePath - ../upload/1691730712621121/64d5c31a42e8c.dcm
+2023-08-11 14:11:54 File Upload successful(upload_check.php): tmpFile - /tmp/phpL9a6Cl, filePath - ../upload/1691730712621121/64d5c31a43615.dcm
+2023-08-11 14:52:14 script to upload_check.php: success - dd.dcm, test.dcm, 66.dcm, fail - 식약처인허가2.txt, output.txt
+2023-08-11 14:52:14 File Upload successful(upload_check.php): tmpFile - /tmp/phpc0hOoE, filePath - ../upload/1691733132988838/64d5cc8ec5548.dcm
+2023-08-11 14:52:14 File Upload successful(upload_check.php): tmpFile - /tmp/phppSgVGU, filePath - ../upload/1691733132988838/64d5cc8ec6281.dcm
+2023-08-11 14:52:14 File Upload successful(upload_check.php): tmpFile - /tmp/phpxegDpb, filePath - ../upload/1691733132988838/64d5cc8ec906a.dcm
+2023-08-11 14:52:54 Upload failed(dropzone): It's not a Dicom file  filename - qmenta.png, 식약처인허가2.txt, output.txt
+2023-08-11 14:53:34 Upload failed(dropzone): It's not a Dicom file  filename - 식약처인허가2.txt, output.txt
+2023-08-11 14:53:46 script to upload_check.php: success - dd.dcm, test.dcm, 66.dcm, fail - 식약처인허가2.txt, output.txt
+2023-08-11 14:53:46 File Upload successful(upload_check.php): tmpFile - /tmp/php49OsSd, filePath - ../upload/1691733224622619/64d5ccea79d9b.dcm
+2023-08-11 14:53:46 File Upload successful(upload_check.php): tmpFile - /tmp/phpKzgFfc, filePath - ../upload/1691733224622619/64d5ccea7ae3b.dcm
+2023-08-11 14:53:46 File Upload successful(upload_check.php): tmpFile - /tmp/phper7Hab, filePath - ../upload/1691733224622619/64d5ccea7ddb5.dcm
+2023-08-11 14:54:20 script to upload_check.php: success - test.dcm, 66.dcm, dd.dcm, fail - 식약처인허가2.txt, output.txt
+2023-08-11 14:54:21 File Upload successful(upload_check.php): tmpFile - /tmp/phpfdo1gm, filePath - ../upload/1691733259408250/64d5cd0db6968.dcm
+2023-08-11 14:54:21 File Upload successful(upload_check.php): tmpFile - /tmp/php3bYDbL, filePath - ../upload/1691733259408250/64d5cd0db9ced.dcm
+2023-08-11 14:54:21 File Upload successful(upload_check.php): tmpFile - /tmp/phpOJU8la, filePath - ../upload/1691733259408250/64d5cd0dbacdc.dcm
